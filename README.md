@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kaaddo/Kaaddo/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Kaaddo/Kaaddo/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -51,6 +53,6 @@
 
 ###
 
-<h3 align="left">💻 Passionate about programming and technology.<br>🌱 Currently learning C, C++, JavaScript, Data Structures, Algorithms, and Operating Systems.<br>🚀 I enjoy building software projects and exploring new technologies.<br>📚 Always looking to improve my skills and learn something new.</h3>
+<p align="left">💻 Passionate about programming and technology.<br>🌱 Currently learning C, C++, JavaScript, Data Structures, Algorithms, and Operating Systems.<br>🚀 I enjoy building software projects and exploring new technologies.<br>📚 Always looking to improve my skills and learn something new.</p>
 
 ###
